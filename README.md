@@ -263,6 +263,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * [Google Cloud Translation API v2](https://cloud.google.com/translate/docs/advanced) - for accurate multilingual text translation
 * [Tailwind CSS](https://tailwindcss.com/) - for utility-first modern styling
 * [React Icons](https://react-icons.github.io/react-icons/search) - for easily adding icons in React
+* [Image Shields](https://shields.io/) - for creating README badges
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
