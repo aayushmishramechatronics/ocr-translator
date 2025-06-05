@@ -154,21 +154,21 @@ npm install
 4. **Set Up Environment Variables**
    
    bash
-   # Copy the template file
-   cp .env.local.template .env.local
-   
-   # Edit .env.local and add your API key
-   GOOGLE_CLOUD_API_KEY='your-actual-api-key-here'
+   i. Copy the template file
+    cp .env.local.template .env.local
+
+   ii. Edit .env.local and add your API key
+    GOOGLE_CLOUD_API_KEY='your-actual-api-key-here'
 
 ### 3. Run the Application
 
 \`\`\`bash
-# Development mode
-npm run dev
+i. Development mode
+ npm run dev
 
-# Production build
-npm run build
-npm start
+ii. Production build
+ npm run build
+ npm start
 \`\`\`
 
 Visit `http://localhost:3000` to use the application.
