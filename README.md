@@ -271,7 +271,7 @@ Project Link: [https://github.com/aayushmishramechatronics/ocr-translator](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/aayushmishramechatronics/ocr-translator.svg?style=for-the-badge
 [forks-url]: https://github.com/aayushmishramechatronics/ocr-translator/network/members
 [stars-shield]: https://img.shields.io/github/stars/aayushmishramechatronics/ocr-translator.svg?style=for-the-badge
 [stars-url]: https://github.com/aayushmishramechatronics/ocr-translator/stargazers
