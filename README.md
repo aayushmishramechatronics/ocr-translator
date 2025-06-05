@@ -88,8 +88,8 @@ Translate the extracted text into multiple Indian languages such as:
 3. Marathi
 4. Telugu
 5. Hindi
-and many more!
-This feature helps bridge language barriers and ensures content is accessible to diverse users.
+
+and many more! this feature helps bridge language barriers and ensures content is accessible to diverse users.
 
 ✂️ Crop and 🖱️ Drag & Drop Support
 
