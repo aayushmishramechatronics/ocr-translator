@@ -157,7 +157,7 @@ npm install
    cp .env.local.template .env.local
    
    # Edit .env.local and add your API key
-   GOOGLE_CLOUD_API_KEY=your-actual-api-key-here
+   GOOGLE_CLOUD_API_KEY='your-actual-api-key-here'
    \`\`\`
 
 ### 3. Run the Application
