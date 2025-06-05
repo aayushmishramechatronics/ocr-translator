@@ -128,7 +128,6 @@ Ensure you have **Node.js** and **npm** installed on your system.
   ```
 ### Installation
 ## 1. Clone and Install
-
 \`\`\`bash
 git clone <your-repo-url>
 cd ocr-translator
