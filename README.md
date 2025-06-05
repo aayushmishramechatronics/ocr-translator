@@ -250,7 +250,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Aayush Mishra - [X](https://x.com/AayushMish33852) - aayushmishra1105@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/aayushmishramechatronics/ocr-translator)
+Project Link: [https://github.com/aayushmishramechatronics/ocr-translator](https://github.com/aayushmishramechatronics/ocr-translator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
