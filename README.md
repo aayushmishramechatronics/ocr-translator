@@ -153,7 +153,6 @@ npm install
 
 4. **Set Up Environment Variables**
    
-   bash
    i. Copy the template file
     cp .env.local.template .env.local
 
@@ -162,14 +161,12 @@ npm install
 
 ### 3. Run the Application
 
-\`\`\`bash
 i. Development mode
  npm run dev
 
 ii. Production build
  npm run build
  npm start
-\`\`\`
 
 Visit `http://localhost:3000` to use the application.
 
