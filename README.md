@@ -127,14 +127,16 @@ Ensure you have **Node.js** and **npm** installed on your system.
   npm install npm@latest -g
   ```
 ### Installation
-## 1. Clone and Install
-\`\`\` bash
+
+### 1. Clone and Install
+
+\`\`\`bash
 git clone <your-repo-url>
 cd ocr-translator
 npm install
 \`\`\`
 
-## 2. Google Cloud Setup
+### 2. Google Cloud Setup
 
 1. **Create a Google Cloud Project**
    - Go to [Google Cloud Console](https://console.cloud.google.com/)
@@ -158,7 +160,7 @@ npm install
    GOOGLE_CLOUD_API_KEY=your-actual-api-key-here
    \`\`\`
 
-## 3. Run the Application
+### 3. Run the Application
 
 \`\`\`bash
 # Development mode
