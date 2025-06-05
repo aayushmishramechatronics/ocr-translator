@@ -152,13 +152,13 @@ npm install
    - **Important**: Restrict the API key to only Vision and Translation APIs for security
 
 4. **Set Up Environment Variables**
-   \`\`\`bash
+   
+   bash
    # Copy the template file
    cp .env.local.template .env.local
    
    # Edit .env.local and add your API key
    GOOGLE_CLOUD_API_KEY='your-actual-api-key-here'
-   \`\`\`
 
 ### 3. Run the Application
 
